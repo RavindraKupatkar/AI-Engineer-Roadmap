@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMap: AI Engineer & Agent Roadmap",
+  "description": "A dynamic, intelligent roadmap generator that merges AI Engineering and AI Agent disciplines into a unified interactive curriculum using Gemini 2.5 and D3.js.",
+  "requestFramePermissions": []
+}
